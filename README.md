@@ -7,11 +7,11 @@
 - 最初はローカルで作り始め、起動に乗ったらwebに載せる
 
 ### 詳細
-'''
+```
 IaaS: AWS-EC2
 HTTP server: Nginx
 OS: CentOS6
 Web design: Bootstrap
 Language: Ruby
 Application server: Railsデフォルトに準拠
-'''
+```
