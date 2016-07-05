@@ -11,5 +11,5 @@ HTTP server: Nginx
 OS: CentOS6
 Web design: Bootstrap
 Language: Ruby
-Application server: depend on Rails default
+Application server: depends on Rails default
 ```
