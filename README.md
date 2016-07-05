@@ -1,17 +1,15 @@
 # BugNesty
 
-### 概要
-- 流行技術の情報を集めるサービス
-- 指定した単語を検索し、上位５つのサイトから情報を取得して表示する
-- 知識の巣のようになることから当サービス名に決定
-- 最初はローカルで作り始め、起動に乗ったらwebに載せる
+### Abstruct
+- collecting the imformations of current techs
+- search the designated word and get passeges from upper 5 sites
 
-### 詳細
+### Detail
 ```
 IaaS: AWS-EC2
 HTTP server: Nginx
 OS: CentOS6
 Web design: Bootstrap
 Language: Ruby
-Application server: Railsデフォルトに準拠
+Application server: depend on Rails default
 ```
